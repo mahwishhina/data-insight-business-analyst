@@ -80,6 +80,10 @@ Additional project documentation:
 
 ![Architecture Diagram](Architecture_Diagram.png)
 
+## 🎥 Demo Video
+Watch the full demo here:  
+[https://youtu.be/YOUR-VIDEO-LINK](https://youtu.be/zIKuvuMEnHM)
+
 ## Author
 
 Mahwish Farhan
