@@ -69,6 +69,17 @@ Insight Generation Layer
 
 The output is delivered as actionable recommendations, queries, KPIs, dashboards, and business insights.
 
+## Documentation
+
+Additional project documentation:
+
+- 📄 [Project Description](docs/project-description.md)
+- 📋 [Use Cases](docs/use-cases.md)
+
+## Architecture
+
+![Architecture Diagram](Architecture_Diagram.png)
+
 ## Author
 
 Mahwish Farhan
